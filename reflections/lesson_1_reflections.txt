@@ -1,0 +1,5 @@
+Having earlier versions of the file would help us track our changes easier than ever.
+
+having a version control would help us identify our bugs and git checkout to previous version
+
+Planning to use git for my current and upcoming projects
