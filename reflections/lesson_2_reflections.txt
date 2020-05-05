@@ -1,3 +1,15 @@
 Initialising a repository will add the .git and it will keep track of the changes
 
 staging area is a step before we try to commit. We could review our contents to be commited in the staging area
+
+once you start finding the bug by entering into the previous commits. Your head will be in detached state. After finding it out 
+git checkout master
+Then you are on the latest commit, then you fix the bug and commit it.
+
+Branches
+To check the branches present type
+git branch
+
+To jump to a certain branch say "ks"
+git checkout ks
+And create the commits there  and the experiments
