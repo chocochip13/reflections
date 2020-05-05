@@ -13,3 +13,9 @@ git branch
 To jump to a certain branch say "ks"
 git checkout ks
 And create the commits there  and the experiments
+
+Merging two branches
+Two branches can be merged with the following command. Say merging the new commits from "ks" to "master"
+git merge master ks
+
+While merging git adds the line which were not there in the parent file.
