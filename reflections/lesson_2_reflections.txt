@@ -19,3 +19,5 @@ Two branches can be merged with the following command. Say merging the new commi
 git merge master ks
 
 While merging git adds the line which were not there in the parent file.
+
+Git checks the changes made by the two person if its in the same area then it throws a merge conflict or or else it incorporates changed made by both of the persons
