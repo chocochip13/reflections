@@ -3,3 +3,10 @@ git remote add origin <URL>
 
 Then you can push changes to master in github from the origin in the local by
 git push orgin master
+
+Pull the changes which are on github but not in your local system by
+git pull origin <branch you want to pull> 
+
+Fork -  Make a copy of that repo in your own profile
+Clone - Downloading the repo along with history of commits to our pc
+Branches -  Creating a branch from the node
